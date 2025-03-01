@@ -1,0 +1,5 @@
+print (12 + 23)
+print (12.34 + 23.34)
+print ("12" +'23')
+print ('12.23' + " 23")
+print ("Hello" + "Hi")
