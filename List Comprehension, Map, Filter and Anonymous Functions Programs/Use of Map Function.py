@@ -1,0 +1,1 @@
+print("Sum:", sum(list(map(int, input("Enter any numbers space seprated: ").split()))))
